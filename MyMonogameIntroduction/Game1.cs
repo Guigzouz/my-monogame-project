@@ -5,8 +5,11 @@ using MonoGameLibrary;
 
 namespace MyMonogameIntroduction;
 
+// The MonoGame logo texture
 public class Game1 : Core
 {
+    private Texture2D _logo;
+
     public Game1() : base("Dungeon Slime", 1280, 720, false)
     {
 
@@ -22,7 +25,7 @@ public class Game1 : Core
     protected override void LoadContent()
     {
         // TODO: use this.Content to load your game content here
-
+        _logo = Content.Load<Texture2D>("images/monogame-logo");
         base.LoadContent();
     }
 
@@ -39,6 +42,15 @@ public class Game1 : Core
     protected override void Draw(GameTime gameTime)
     {
         GraphicsDevice.Clear(Color.CornflowerBlue);
+
+        // Begin the sprite batch to prepare for rendering.
+        SpriteBatch.Begin();
+
+        // Draw the logo texture
+        SpriteBatch.Draw(_logo, Vector2.Zero, Color.White);
+
+        // Always end the sprite batch when finished.
+        SpriteBatch.End();
 
         // TODO: Add your drawing code here
 

@@ -32,3 +32,4 @@
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/obj/Debug/net8.0/MyMonogameIntroduction.sourcelink.json
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/MonoGameLibrary.dll
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/MonoGameLibrary.pdb
+/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/images/monogame-logo.xnb
