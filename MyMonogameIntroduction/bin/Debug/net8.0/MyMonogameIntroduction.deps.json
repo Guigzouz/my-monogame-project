@@ -9,7 +9,8 @@
       "MyMonogameIntroduction/1.0.0": {
         "dependencies": {
           "MonoGame.Content.Builder.Task": "3.8.4",
-          "MonoGame.Framework.DesktopGL": "3.8.4"
+          "MonoGame.Framework.DesktopGL": "3.8.4",
+          "MonoGameLibrary": "1.0.0"
         },
         "runtime": {
           "MyMonogameIntroduction.dll": {}
@@ -115,7 +116,12 @@
         }
       },
       "System.Memory/4.5.3": {},
-      "System.ValueTuple/4.5.0": {}
+      "System.ValueTuple/4.5.0": {},
+      "MonoGameLibrary/1.0.0": {
+        "runtime": {
+          "MonoGameLibrary.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -172,6 +178,11 @@
       "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
       "path": "system.valuetuple/4.5.0",
       "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "MonoGameLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
