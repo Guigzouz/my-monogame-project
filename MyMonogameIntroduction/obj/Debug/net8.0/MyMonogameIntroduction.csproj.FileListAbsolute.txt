@@ -29,3 +29,4 @@
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/obj/Debug/net8.0/MyMonogameIntroduction.pdb
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/obj/Debug/net8.0/MyMonogameIntroduction.genruntimeconfig.cache
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/obj/Debug/net8.0/ref/MyMonogameIntroduction.dll
+/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/obj/Debug/net8.0/MyMonogameIntroduction.sourcelink.json

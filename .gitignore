@@ -1,0 +1,52 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+
+# .NET artifacts
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.json
+*.xml
+
+# MonoGame / MGCB build artifacts
+*.mgcb.cache
+Content/bin/
+Content/obj/
+
+# Rider / VS Code / Visual Studio
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional: logs, temp files
+*.tmp
+*.bak
+*.swp
