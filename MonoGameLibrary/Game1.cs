@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace MyMonogameIntroduction;
+namespace MonoGameLibrary;
 
 public class Game1 : Game
 {
@@ -42,7 +42,7 @@ public class Game1 : Game
 
     protected override void Draw(GameTime gameTime)
     {
-        GraphicsDevice.Clear(Color.MonoGameOrange);
+        GraphicsDevice.Clear(Color.CornflowerBlue);
 
         // TODO: Add your drawing code here
 

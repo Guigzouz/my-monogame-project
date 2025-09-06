@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMonogameIntroduction", "MyMonogameIntroduction\MyMonogameIntroduction.csproj", "{19D21A31-86DC-4F8A-8E05-AB1C93FDBEEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameLibrary", "MonoGameLibrary\MonoGameLibrary.csproj", "{83C3DC07-7962-43E3-8F09-78C3BD2F4CE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{19D21A31-86DC-4F8A-8E05-AB1C93FDBEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D21A31-86DC-4F8A-8E05-AB1C93FDBEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D21A31-86DC-4F8A-8E05-AB1C93FDBEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C3DC07-7962-43E3-8F09-78C3BD2F4CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C3DC07-7962-43E3-8F09-78C3BD2F4CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C3DC07-7962-43E3-8F09-78C3BD2F4CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C3DC07-7962-43E3-8F09-78C3BD2F4CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
