@@ -1,2 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/Content/images/atlas-definition.xml","/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/Content/bin/DesktopGL/Content/images/atlas-definition.xml","CopyItem","File",271,271,0.0002031
+"/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/Content/images/atlas.png","/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.0722419
 "/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/Content/images/monogame-logo.png","/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/Content/bin/DesktopGL/Content/images/monogame-logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0772391

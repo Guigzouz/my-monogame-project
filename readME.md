@@ -17,3 +17,13 @@ Then install **WINE** for effect Compilation (macOS & Linux)
 sudo apt-get update && sudo apt-get install -y curl p7zip-full wine64
 wget -qO- https://monogame.net/downloads/net8_mgfxc_wine_setup.sh | bash
 ```
+
+## Installing formatter config :
+
+```bash
+dotnet tool install -g dotnet-format
+```
+
+And then go to `Preferences>Open User Settings>Formatter : C#`
+
+From then on the repo's *.editorconfig* will be used to format the code
