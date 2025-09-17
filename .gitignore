@@ -10,6 +10,10 @@ x86/
 bld/
 [Bb]uild/
 
+# Explicitly ignore build and obj folders in MyMonogameIntroduction
+MyMonogameIntroduction/bin/
+MyMonogameIntroduction/obj/
+
 # .NET artifacts
 *.exe
 *.dll
@@ -50,3 +54,5 @@ desktop.ini
 *.tmp
 *.bak
 *.swp
+
+
