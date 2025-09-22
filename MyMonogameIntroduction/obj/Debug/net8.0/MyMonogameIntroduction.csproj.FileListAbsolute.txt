@@ -35,3 +35,4 @@
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/images/monogame-logo.xnb
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/images/atlas.xnb
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/images/atlas-definition.xml
+/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/images/tilemap-definition.xml
