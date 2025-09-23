@@ -36,3 +36,7 @@
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/images/atlas.xnb
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/images/atlas-definition.xml
 /home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/images/tilemap-definition.xml
+/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/audio/bounce.xnb
+/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/audio/collect.xnb
+/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/audio/theme.ogg
+/home/revolverocelot/dev/my-monogame-project/MyMonogameIntroduction/bin/Debug/net8.0/Content/audio/theme.xnb
